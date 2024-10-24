@@ -1,0 +1,31 @@
+
+.container{
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+
+}
+img{
+    height: 600px;
+    width: 800px;
+}
+.btn{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.a{
+    background-color: rgb(235, 218, 187);
+    padding: 40px;
+    margin: 40px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    border-bottom: black solid 2px;
+    font-family:'Courier New', Courier, monospace;
+}
